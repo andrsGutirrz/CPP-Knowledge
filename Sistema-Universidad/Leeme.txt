@@ -1,0 +1,13 @@
+Al iniciar el programa, este pedirá si desea cargar la información desde un texto o agregar 
+nueva información para que la aplicación la procese.
+Al finalizar, en la opción número 3 del menú principal, 
+pedirá un nombre para crear un nuevo archivo de texto y con este 
+poder guardar la información procesada.
+Por defecto, todos los archivos que se crean, se guardan en una carpeta, 
+dentro de directorio del proyecto, esa carpeta se llama “Data”.
+
+Hay un archivo por defecto, se llama "data.txt" y "data2.txt"
+
+Los reportes estan en la carpeta "Data" en los .txt generados por la aplicación
+
+Puede encontrar este proyecto en: https://github.com/andrsGutirrz/Sistema-Universidad
